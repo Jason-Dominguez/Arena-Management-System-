@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1543641859 source:z:\finalproject_jdomingu\concession.cpp
+	"concession.h"
+	"bankacc.h"
+
+1542317327 source:z:\finalproject_jdomingu\date.cpp
+	"date.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1542317327 z:\finalproject_jdomingu\date.h
+
+1543643268 source:z:\finalproject_jdomingu\main.cpp
+	<iostream>
+	<vector>
+	"bankacc.h"
+	"concession.h"
+	"parking.h"
+	"schedule.h"
+	"staff.h"
+	"tickets.h"
+
+1543611156 z:\finalproject_jdomingu\parking.h
+	<iostream>
+	<vector>
+	<fstream>
+	"bankacc.h"
+
+1543638460 source:z:\finalproject_jdomingu\parking.cpp
+	"parking.h"
+
+1542565177 source:z:\finalproject_jdomingu\parking.h
+
+1543597252 z:\finalproject_jdomingu\bankacc.h
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1543638688 source:z:\finalproject_jdomingu\bankacc.cpp
+	"bankacc.h"
+
+1543616392 z:\finalproject_jdomingu\schedule.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	<vector>
+	"tickets.h"
+	"bankacc.h"
+
+1543635807 z:\finalproject_jdomingu\tickets.h
+	<iostream>
+	<vector>
+	<fstream>
+	<iomanip>
+	<stdlib.h>
+	"schedule.h"
+	"bankacc.h"
+
+1543643592 source:z:\finalproject_jdomingu\schedule.cpp
+	"schedule.h"
+
+1543641859 source:z:\finalproject_jdomingu\tickets.cpp
+	"tickets.h"
+
+1543611156 z:\finalproject_jdomingu\staff.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	<vector>
+
+1543641859 source:z:\finalproject_jdomingu\staff.cpp
+	"staff.h"
+
+1543611156 z:\finalproject_jdomingu\concession.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	<vector>
+	<cctype>
+	"bankacc.h"
+
